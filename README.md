@@ -2,6 +2,8 @@
 
 Welcome to my GitHub! 🚀 I’m a **Computer Science professional and AI enthusiast** pursuing my **Master’s at Illinois Institute of Technology**. With a knack for building innovative, data-driven, and scalable software solutions, I thrive at the intersection of cutting-edge technology and impactful problem-solving. 🌟
 
+![Profile Views](https://komarev.com/ghpvc/?username=Akash-chatur)
+
 ---
 
 ## 👨🏻‍💻 About Me
