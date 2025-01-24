@@ -64,7 +64,7 @@ Welcome to my GitHub! 🚀 I’m a **Computer Science professional and AI enthus
 - 📧 Email: [akashchaturvedi1125@gmail.com](mailto:akashchaturvedi1125@gmail.com)
 - 🌐 LinkedIn: [Akash Chaturvedi Battula](https://www.linkedin.com/in/akash-chaturvedi-17983a169/)
 - 📄 Check out my [Résumé](https://drive.google.com/file/d/16GTd0EEZFxSSJFr-wzGgwCfHiK6JLfwS/view?usp=sharing)
-- ![Akash](https://github.com/user-attachments/assets/656202e9-5e30-4df0-ac51-f3ca634dd9c0) Want to know more [About ME](https://akashchaturvedibattula.web.app/)
+- ![Akash](https://github.com/user-attachments/assets/656202e9-5e30-4df0-ac51-f3ca634dd9c0=16x20) Want to know more [About ME](https://akashchaturvedibattula.web.app/)
 
 ---
 
