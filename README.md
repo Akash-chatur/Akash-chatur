@@ -17,7 +17,13 @@ Welcome to my GitHub! 🚀 I’m a **Computer Science professional and AI enthus
 ## 🛠 Tech Stack
 
 **Programming Languages**:  
-Java | Golang | Python | JavaScript | SQL | C++
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 **Frameworks & Libraries**:  
 React.js | Spring | Django | Flask | PyTorch | TensorFlow | Scikit-learn
