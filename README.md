@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi there! I'm Akash Chaturvedi Battula
+Welcome to my GitHub! 🚀 I’m a Computer Science professional and AI enthusiast pursuing my Master’s at Illinois Institute of Technology. With a knack for building innovative, data-driven, and scalable software solutions, I thrive at the intersection of cutting-edge technology and impactful problem-solving. 🌟
 
-<!--
-**Akash-chatur/Akash-chatur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 About Me
+🎓 Master of Science in Computer Science at Illinois Institute of Technology (GPA: 3.7/4.0)
+🔭 Former Software Engineer II at NCR, with a proven track record of delivering robust APIs, improving system performance, and leading architecture discussions.
+🌱 Currently diving deep into Generative AI, LangChain, AWS, and MLflow to further enhance my skillset.
+💬 Ask me about Microservices Architecture, Data-Driven Systems, Generative AI, and MLOps.
+🏆 Achievements: 5-star performance rating (twice!) and Best R&D Award at NCR in 2023.
+🛠 Tech Stack
+Programming Languages:
 
-Here are some ideas to get you started:
+Java | Golang | Python | JavaScript | SQL | C++
+Frameworks & Libraries:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React.js | Spring | Django | Flask | PyTorch | TensorFlow | Scikit-learn
+Databases:
+
+MySQL | PostgreSQL | MongoDB | DynamoDB | Firebase
+Cloud & DevOps:
+
+AWS (ECS, EC2, S3, RDS) | Docker | Kubernetes | Jenkins | Terraform
+Tools:
+
+Git | Postman | Visual Studio | IntelliJ | Grafana | SonarQube | Junit
+📫 How to Reach Me
+📧 Email: akashchaturvedi1125@gmail.com
+🌐 LinkedIn: Akash Chaturvedi Battula
+📄 Check out my Resume.
