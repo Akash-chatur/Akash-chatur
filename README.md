@@ -22,7 +22,6 @@ Welcome to my GitHub! 🚀 I’m a **Computer Science professional and AI enthus
 <a href="https://www.java.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="50" height="50">
 </a>
-
 <a href="https://go.dev" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Golang Logo" width="50" height="50">
 </a>
