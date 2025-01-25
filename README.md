@@ -84,7 +84,7 @@ Welcome to my GitHub! 🚀 I’m a **Computer Science professional and AI enthus
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="50" height="50">
 </a>
 <a href="https://www.docker.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" width="80" height="50">
 </a>
 <a href="https://kubernetes.io/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes Logo" width="50" height="50">
