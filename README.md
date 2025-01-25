@@ -70,10 +70,10 @@ Welcome to my GitHub! 🚀 I’m a **Computer Science professional and AI enthus
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="50" height="50">
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB Logo" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" width="50" height="50">    
 </a>
 <a href="https://aws.amazon.com/dynamodb/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Amazon_Web_Services_Logo.svg" alt="DynamoDB Logo" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB Logo" width="50" height="50">
 </a>
 <a href="https://firebase.google.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase Logo" width="50" height="50">
