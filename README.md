@@ -47,10 +47,10 @@ Welcome to my GitHub! 🚀 I’m a **Computer Science professional and AI enthus
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Logo" width="50" height="50">
 </a>
 <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django Logo" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django Logo" width="75" height="50">
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask Logo" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask Logo" width="75" height="50">
 </a>
 <a href="https://pytorch.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch Logo" width="50" height="50">
@@ -84,7 +84,7 @@ Welcome to my GitHub! 🚀 I’m a **Computer Science professional and AI enthus
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="50" height="50">
 </a>
 <a href="https://www.docker.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" width="80" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" width="100" height="50">
 </a>
 <a href="https://kubernetes.io/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes Logo" width="50" height="50">
@@ -101,7 +101,7 @@ Welcome to my GitHub! 🚀 I’m a **Computer Science professional and AI enthus
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="50" height="50">
 </a>
 <a href="https://www.postman.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman Logo" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman Logo" width="100" height="50">
 </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Logo" width="50" height="50">
@@ -113,10 +113,10 @@ Welcome to my GitHub! 🚀 I’m a **Computer Science professional and AI enthus
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="Grafana Logo" width="50" height="50">
 </a>
 <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Sonarqube-48x200.png" alt="SonarQube Logo" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Sonarqube-48x200.png" alt="SonarQube Logo" width="120" height="50">
 </a>
 <a href="https://junit.org/junit5/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" alt="JUnit Logo" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" alt="JUnit Logo" width="120" height="50">
 </a>
 
 ---
