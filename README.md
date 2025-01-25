@@ -104,19 +104,19 @@ Welcome to my GitHub! 🚀 I’m a **Computer Science professional and AI enthus
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman Logo" width="50" height="50">
 </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Logo" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Logo" width="50" height="50">
 </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://commons.wikimedia.org/wiki/File:JetBrains_IntelliJ_IDEA_Product_Icon.svg" alt="IntelliJ IDEA Logo" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg" alt="IntelliJ IDEA Logo" width="50" height="50">
 </a>
 <a href="https://grafana.com/" target="_blank">
-    <img src="https://commons.wikimedia.org/wiki/File:Grafana_logo.svg" alt="Grafana Logo" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="Grafana Logo" width="50" height="50">
 </a>
 <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank">
-    <img src="https://commons.wikimedia.org/wiki/File:Sonarqube-48x200.png" alt="SonarQube Logo" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Sonarqube-48x200.png" alt="SonarQube Logo" width="50" height="50">
 </a>
 <a href="https://junit.org/junit5/" target="_blank">
-    <img src="https://commons.wikimedia.org/wiki/File:JUnit_5_Banner.png" alt="JUnit Logo" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" alt="JUnit Logo" width="50" height="50">
 </a>
 
 ---
