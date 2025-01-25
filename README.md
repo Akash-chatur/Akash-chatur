@@ -47,10 +47,10 @@ Welcome to my GitHub! 🚀 I’m a **Computer Science professional and AI enthus
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Logo" width="50" height="50">
 </a>
 <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django Logo" width="75" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django Logo" width="100" height="50">
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask Logo" width="75" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask Logo" width="100" height="50">
 </a>
 <a href="https://pytorch.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch Logo" width="50" height="50">
