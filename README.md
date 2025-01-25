@@ -72,11 +72,11 @@ Welcome to my GitHub! 🚀 I’m a **Computer Science professional and AI enthus
 <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" width="50" height="50">    
 </a>
-<a href="https://aws.amazon.com/dynamodb/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB Logo" width="50" height="50">
-</a>
 <a href="https://firebase.google.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase Logo" width="50" height="50">
+</a>
+<a href="https://aws.amazon.com/dynamodb/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB Logo" width="50" height="50">
 </a>
 
 **Cloud & DevOps**:  
